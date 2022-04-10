@@ -37,13 +37,14 @@ input{
     border-bottom: 1px solid #fff;
     background: transparent;
     color: wheat;
+    font-size: 30px;
 }
 
 select{
     outline: none;
     padding: 10px;
     border-radius: 10px;
-    
+    font-size: 25px;
 }
 
 button{
