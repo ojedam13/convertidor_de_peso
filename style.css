@@ -39,3 +39,25 @@ input{
     color: wheat;
 }
 
+select{
+    outline: none;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+button{
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    background: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+}
+
+p{
+    text-transform: uppercase;
+}
